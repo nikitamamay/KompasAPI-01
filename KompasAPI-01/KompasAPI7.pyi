@@ -4,7 +4,7 @@
 
 #
 # Файл 'KompasAPI7.pyi'
-# сгенерирован автоматически 2026-03-09 17:42:16
+# сгенерирован автоматически 2026-03-11 20:38:40
 # с помощью 'https://github.com/nikitamamay/KompasAPI-stubs-generator'
 #
 
@@ -13312,7 +13312,7 @@ class IKompasDocument2D(IKompasDocument):  # ikompasdocument2d.html
 
 
 
-class IFragmentDocument(IKompasDocument):  # ifragmentdocument.html
+class IFragmentDocument(IKompasDocument2D):  # ifragmentdocument.html
     """
     ## Интерфейс IFragmentDocument
 
@@ -13343,13 +13343,6 @@ class IFragmentDocument(IKompasDocument):  # ifragmentdocument.html
         IsSketch = iObject.GetIsSketch( )  # Получить свойство (**)
         ```
         """
-        ...
-
-    @property
-    def ViewsAndLayersManager(self):
-        ...
-
-    def GetDrawingObjectNotifyResult(self):
         ...
 
 

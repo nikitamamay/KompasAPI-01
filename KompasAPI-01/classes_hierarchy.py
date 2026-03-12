@@ -4,7 +4,7 @@
 
 #
 # Файл 'classes_hierarchy.py'
-# сгенерирован автоматически 2026-03-09 17:42:15
+# сгенерирован автоматически 2026-03-11 20:38:41
 # с помощью 'https://github.com/nikitamamay/KompasAPI-stubs-generator'
 #
 
@@ -579,7 +579,7 @@ KompasAPIclassesHierarchy = {
     'IFindObject3DParameters'                         : ['IKompasAPIObject'],      # ifindobject3dparameters.html
     'IFindObjectParameters'                           : ['IKompasAPIObject'],      # ifindobjectparameters.html
     'IFormatLabelRules'                               : ['IKompasAPIObject'],      # iformatlabelrules.html
-    'IFragmentDocument'                               : ['IKompasDocument'],       # ifragmentdocument.html
+    'IFragmentDocument'                               : ['IKompasDocument2D'],     # ifragmentdocument.html
     'IFragmentDocumentSettings'                       : ['IDocument2DSettings'],   # ifragmentdocumentsettings.html
     'IFrameTreesManager'                              : ['IDispatch'],             # iframetreesmanager.html
     'IFullFillet'                                     : ['IModelObject'],          # ifullfillet.html

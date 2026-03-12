@@ -4,7 +4,7 @@
 
 #
 # Файл 'constants.py'
-# сгенерирован автоматически 2026-03-09 17:42:16
+# сгенерирован автоматически 2026-03-11 20:38:41
 # с помощью 'https://github.com/nikitamamay/KompasAPI-stubs-generator'
 #
 
