@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "KompasAPI-01"
+name = "KompasAPI_01"
 version = "0.0.1"
 dependencies = [
   "pywin32",
