@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   xml:space="preserve"
+   sodipodi:docname="kompas-logo.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   width="64"
+   height="64"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="2.8284271"
+   inkscape:cx="-36.062446"
+   inkscape:cy="21.213204"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#4FA8EB;}
+</style>
+
+<path
+   id="rect3"
+   style="fill-opacity:1;fill-rule:evenodd"
+   d="M 0,0 V 64 H 64.000003 V 0 Z M 3.19922,3.199219 H 60.80078 V 60.800781 H 3.19922 Z M 32,6.5 C 17.916739,6.5 6.5,17.916739 6.5,32 c 0,14.083261 11.416739,25.5 25.5,25.5 5.728779,-1.25e-4 11.290634,-1.929299 15.78906,-5.476562 h 0.002 l -2.1211,-2.152344 h -0.002 L 27.74804,31.701172 18.94726,40.232422 V 19.167969 h 6.40039 v 7.464843 l 7.46679,-7.464843 7.19532,-0.0039 -8.53321,8.800782 18.09766,18.083984 2.13281,2.132813 h 0.002 C 55.453656,43.620375 57.500295,37.901483 57.5,32 57.5,17.916739 46.083261,6.5 32,6.5 Z m 0,3 c 5.906568,1.26e-4 11.576218,2.322844 15.78516,6.466797 H 32.01367 l -3.19922,3.466797 V 15.966797 H 16.21484 C 20.423782,11.822844 26.093432,9.500126 32,9.5 Z m 15.90039,6.580078 C 52.125903,20.300543 54.500136,26.027791 54.5,32 c -2.56e-4,3.93131 -1.03056,7.793942 -2.98828,11.203125 L 36.00977,27.964844 Z M 16.01562,47.833984 C 11.841904,43.620915 9.500287,37.930418 9.5,32 9.500287,26.069582 11.841904,20.379085 16.01562,16.166016 Z M 28.01367,36.5 42.74805,51.765625 C 39.449638,53.559603 35.754714,54.499616 32,54.5 26.023002,54.500142 20.291565,52.122115 16.07031,47.890625 Z"
+   sodipodi:nodetypes="ccccccccccsscccccccccccccccccsccccccccccccccccccccc" /></svg>
